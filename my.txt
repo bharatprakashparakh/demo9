@@ -1,0 +1,3 @@
+hello world 
+i love my country
+x=50
